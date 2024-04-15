@@ -414,6 +414,37 @@ CCTV15-音乐,http://175.0.50.196:8899/tsfile/live/0015_1.m3u8?key=txiptv&playli
 
 
 龍🐉新电影,#genre#
+🔥破毒行动,https://yzzy.play-cdn21.com/20240410/29382_b6fec4dc/index.m3u8
+🔥大“反”派,https://yzzy1.play-cdn20.com/20240412/35015_e7ba6c4e/index.m3u8
+🔥被我弄丢的你,https://yzzy.play-cdn21.com/20240412/31976_edf5c2e4/index.m3u8
+🔥人偶新娘,https://hdzy.play-cdn23.com/20240413/4007_9b4b57d9/index.m3u8
+🔥功夫熊猫4,https://yzzy.play-cdn21.com/20240410/29373_4da7f681/index.m3u8
+🔥哥斯拉大战金刚2：帝国崛起,https://leshiyuncdn.36s.top/20240328/WBcq2Xfp/index.m3u8
+🔥超意神探,https://v.cdnlz2.com/20240404/29406_adee19b4/index.m3u8
+蛇皮美人,https://leshiyuncdn.36s.top/20240404/Y1TNiu94/index.m3u8
+沙丘2,https://yzzy.play-cdn21.com/20240406/20152_6054e861/index.m3u8
+沙丘2,https://yzzy1.play-cdn20.com/20240307/19086_a0fef1f2/index.m3u8
+狂暴巨蜥,https://v.cdnlz12.com/20240327/13508_eaee7b94/index.m3u8
+扫黑行动之黄金,https://v.cdnlz12.com/20240326/13458_d6285376/index.m3u8
+妖神令,https://v.cdnlz12.com/20240328/13574_081df2fa/index.m3u8
+天地正气,https://v.cdnlz12.com/20240324/13368_682d336b/index.m3u8
+除暴安良,https://v.cdnlz7.com/20240302/16255_e02cc774/index.m3u8
+最后的法师,https://v.cdnlz11.com/20231112/18264_bf1bd3e6/index.m3u8
+第三个嫌疑人,https://v.cdnlz12.com/20240324/13369_6e36581e/index.m3u8
+新威龙杀阵,https://v.cdnlz12.com/20240321/13258_0f96066a/index.m3u8
+龙狱天棺,https://yzzy.play-cdn21.com/20240321/12261_976aa3bb/index.m3u8
+龙林逃生1,https://yzzy.play-cdn17.com/20230727/13244_9bc32f8c/index.m3u8
+龙林逃生2,https://yzzy.play-cdn21.com/20240321/12292_4b8671e9/index.m3u8
+国际空间站,https://v.cdnlz12.com/20230913/10341_d0be8370/index.m3u8
+十三太保之风云再起,https://s5.bfengbf.com/video/shisantaibaozhifengyunzaiqi/HD/index.m3u8
+罪恶名20202020单,https://vip.ffzy-play2.com/20240316/60003_d5b566e5/index.m3u8
+幽灵螳螂1,https://vip.lz-cdn3.com/20230213/17685_7205d5aa/index.m3u8
+幽灵螳螂2,https://s5.bfengbf.com/video/youlingtanglangIIzhitubian/HD/index.m3u8
+挑战2023,https://jx.sumun.cn/Vtche/LZ/466900376.m3u8
+怒潮2023,https://64.32.20.246/play/DdwzD5Mb/index.m3u8
+🔥新九品芝麻官2024,https://s5.bfengbf.com/video/xinjiupinzhimaguan2024/HD/index.m3u8
+弹头奇兵,https://yzzy.play-cdn21.com/20240318/12046_562785ce/index.m3u8
+[韩]破墓TC,https://s5.bfengbf.com/video/pomu/%E4%B8%AD%E5%AD%97/index.m3u8
 🔥潜行,https://yzzy1.play-cdn20.com/20240314/19480_87c97112/index.m3u8
 狂暴巨蜥,https://v.cdnlz12.com/20240327/13508_eaee7b94/index.m3u8
 扫黑行动之黄金,https://v.cdnlz12.com/20240326/13458_d6285376/index.m3u8
@@ -431,9 +462,9 @@ CCTV15-音乐,http://175.0.50.196:8899/tsfile/live/0015_1.m3u8?key=txiptv&playli
 🔥陌路狂刀,https://v.cdnlz12.com/20240308/12526_77ee2ef5/2000k/hls/mixed.m3u8#https://yzzy1.play-cdn1.com/20240308/19202_84e12afe/2000k/hls/mixed.m3u8
 🔥聊斋志异之瞳人语,https://yzzy1.play-cdn20.com/20240305/18516_cd41cda3/2000k/hls/mixed.m3u8#https://hn.bfvvs.com/play/RdGJDE0b/index.m3u8
 🔥[智利]雕形拳,https://vip1.lz-cdn1.com/20230608/21094_b12a3627/2000k/hls/mixed.m3u8
-热辣滚烫TC,https://vip.ffzy-online2.com/20240216/48497_7124419f/2000k/hls/mixed.m3u8#https://vip.ffzy-online2.com/20240216/48497_7124419f/index.m3u8
-第二十条TC,https://v.cdnlz12.com/20240215/11572_dda99b8e/2000k/hls/mixed.m3u8
-飞驰人生2TC,https://ikcdn01.ikzybf.com/20240212/jjCpFTXC/2000kb/hls/index.m3u8
+🔥热辣滚烫TC,https://vip.ffzy-online2.com/20240216/48497_7124419f/2000k/hls/mixed.m3u8#https://vip.ffzy-online2.com/20240216/48497_7124419f/index.m3u8
+🔥第二十条TC,https://v.cdnlz12.com/20240215/11572_dda99b8e/2000k/hls/mixed.m3u8
+🔥飞驰人生2TC,https://ikcdn01.ikzybf.com/20240212/jjCpFTXC/2000kb/hls/index.m3u8
 目中无人2,https://yzzy1.play-cdn1.com/20240210/15952_004b2a47/2000k/hls/index.m3u8
 战锋·尖峰对决,https://vip.ffzy-online6.com/20240221/26640_7e77660f/2000k/hls/index.m3u8
 惊天激战[美],https://v.cdnlz19.com/20240219/17331_1e41d0fd/2000k/hls/mixed.m3u8
