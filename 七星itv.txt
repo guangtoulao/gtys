@@ -3107,6 +3107,76 @@ J2(B),P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 
 凤凰资讯台(B),P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
 
+_9569,#genre#
+中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
+寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
+华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
+NHK新闻资讯台,P2p://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
+无线新闻台(备),P2p://147.135.39.171:9906/65af205400009f3c6edb7a235cfa4c88
+无线新闻台,P2p://147.135.39.171:9906/65e067d500043d6d2f5b0fce7ad17a25
+无线财经体育资讯台,P2p://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
+CGTN,P2p://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
+BBC World News,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
+Bloomberg TV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+CNA,P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+年代新闻(备),P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
+东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
+三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
+TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
+非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+TNN 16,P2p://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
+JKN 18,P2p://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
+三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+Sky News,P2p://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
+Euronews,P2p://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
+France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+600TV,P2p://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
+非凡商业台,P2p://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
+CBSN,P2p://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
+Fox News,P2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
+NDTV,P2p://generationnexxxt.com:19806/d7fc2d61608d43098f59f35647342c6f
+ABC Australia,P2p://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
+台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+寰宇新闻台湾台,P2p://generationnexxxt.com:19806/65b21a80000977cd0ffaa9e72e6218af
+台视财经台,P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
+CNN,P2p://generationnexxxt.com:19806/cc0fd522ff3f4f37a53773c138dacac1
+now财经台,P2p://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
+东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
+now新闻台,P2p://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
+Fox News,P2p://generationnexxxt.com:19806/6579228d000333673171faee60517ea8
+BBC World News,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
+CNN USA,P2p://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
+CBC News,P2p://generationnexxxt.com:19806/6579228b000ea7c13171f60c6a0d21f3
+MSNBC,P2p://generationnexxxt.com:19806/6579228b000782ab3171f43764692427
+CTV News,P2p://generationnexxxt.com:19806/6579228b0000fa413171f29242d67919
+Business News Network,P2p://generationnexxxt.com:19806/6579228a00091f3e3171f0bd49686fdf
+CP24,P2p://generationnexxxt.com:19806/6579228a000310453171ef2756ac0145
+The Weather Network,P2p://generationnexxxt.com:19806/65792289000be5843171ed9050240875
+The Weather Channel,P2p://generationnexxxt.com:19806/65792289000516983171ebcb68d70d48
+香港国际财经台,P2p://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
+无线财经体育资讯台(B),P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
+年代新闻,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
+中天新闻台(B),P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
+无线新闻台(B),P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
+now财经台(B),P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
+Fox News(B),P2p://generationnexxxt.com:19806/f995b6bf60d241828966663608f77e2b
+三立iNEWS(B),P2p://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
+香港国际财经台(B),P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7
+BBC World News(B),P2p://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
+now新闻台(B),P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
+三立新闻台(B),P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
+东森新闻台(B),P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
+TVBS新闻台(B),P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
+年代新闻(B),P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
+非凡新闻台(B),P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+
+
 
 _9569,#genre#
 蜜桃成熟时33D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
