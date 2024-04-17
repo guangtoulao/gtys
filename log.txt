@@ -2135,11 +2135,13 @@ UFC格斗㉑,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926
 2024山东新年交响音乐会,https://top.1080pzy.co/202401/01/VZwAVHYr7M3/video/index.m3u8
 四川卫视2024花开天下国韵新年演唱会,https://cdn1.vip-vip-yzzy.com/20240101/10953_3f15684a/index.m3u8
 
+
+
 龍㊙密码频道,#genre#
 关注公众号,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
 天微科技,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
 获取密码,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmJbV4gUogpLGkgM.mp4
-
+龍㊙（完）,#genre#
 
 _8688,#genre#
 设置偏好设置,
@@ -2498,7 +2500,7 @@ J2(B),P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 
 凤凰资讯台(B),P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
 
-_9569,#genre#
+_8688,#genre#
 中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
