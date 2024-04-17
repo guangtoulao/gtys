@@ -2751,9 +2751,9 @@ BYD蹦野迪,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjEwNDJ
 
 
 _9569,#genre#
-设置偏好设置，
+设置偏好设置,
 开启玩转原力,
-大概缓冲4秒，
+大概缓冲4秒,
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
