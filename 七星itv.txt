@@ -2,6 +2,27 @@
 七星🌟央卫,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 CCTV13,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
+CCTV1,http://rihou.cc:55/lib/migu.php?id=cctv1 
+CCTV2,http://rihou.cc:55/lib/migu.php?id=cctv2 
+CCTV3,http://rihou.cc:55/lib/migu.php?id=cctv3 
+CCTV4,http://rihou.cc:55/lib/migu.php?id=cctv4 
+CCTV4,http://rihou.cc:55/lib/migu.php?id=cctv4a 
+ CCTV4,http://rihou.cc:55/lib/migu.php?id=cctv4o 
+CCTV5,http://rihou.cc:55/lib/migu.php?id=cctv5
+CCTV5+,http://rihou.cc:55/lib/migu.php?id=cctv5p
+CCTV6,http://rihou.cc:55/lib/migu.php?id=cctv6 
+CCTV7,http://rihou.cc:55/lib/migu.php?id=cctv7 
+CCTV8,http://rihou.cc:55/lib/migu.php?id=cctv8 
+CCTV9,http://rihou.cc:55/lib/migu.php?id=cctv9 
+CCTV10,http://rihou.cc:55/lib/migu.php?id=cctv10
+CCTV11,http://rihou.cc:55/lib/migu.php?id=cctv11 
+CCTV12,http://rihou.cc:55/lib/migu.php?id=cctv12 
+CCTV13,http://rihou.cc:55/lib/migu.php?id=cctv13 
+CCTV14,http://rihou.cc:55/lib/migu.php?id=cctv14 
+CCTV15,http://rihou.cc:55/lib/migu.php?id=cctv15 
+CCTV17,http://rihou.cc:55/lib/migu.php?id=cctv17 
+
+
 CCTV1,http://222.174.140.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://222.174.140.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://222.174.140.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
