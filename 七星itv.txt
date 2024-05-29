@@ -1,6 +1,26 @@
 
 七星🌟央卫,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+CCTV1,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=222
+CCTV2,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=270
+CCTV3,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=337
+CCTV4,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=275
+CCTV5,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=628
+CCTV5+,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=284
+CCTV6,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=215
+CCTV7,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=263
+CCTV8,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=305
+CCTV9,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=302
+CCTV10,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=242
+CCTV11,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=349
+CCTV12,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=232
+CCTV13,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=243
+CCTV14,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=303
+CCTV15,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=294
+
+
+
+
 CCTV13,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
 CCTV1,http://rihou.cc:55/lib/migu.php?id=cctv1 
 CCTV2,http://rihou.cc:55/lib/migu.php?id=cctv2 
