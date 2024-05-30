@@ -137,6 +137,25 @@ CCTV12,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX042520
 CCTV13,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=243
 CCTV14,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=303
 CCTV15,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=294
+重温经典频道,http://mtw.so/5NPX0U
+CCTV01,http://171.108.239.76:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV02,http://171.108.239.76:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV03,http://171.108.239.76:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV04,http://171.108.239.76:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV05,http://171.108.239.76:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://171.108.239.76:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV06,http://171.108.239.76:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV07,http://171.108.239.76:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV08,http://171.108.239.76:8181/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV09,http://171.108.239.76:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://171.108.239.76:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://171.108.239.76:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://171.108.239.76:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://171.108.239.76:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://171.108.239.76:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://171.108.239.76:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://171.108.239.76:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://171.108.239.76:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -344,6 +363,26 @@ CCTV15-音乐,http://219.145.20.108:2883/tsfile/live/0015_1.m3u8?key=txiptv&play
 CCTV5＋高清,http://219.145.20.108:2883/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 
 龍🐉央視二,#genre#
+CCTV-01,http://171.108.239.76:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-02,http://171.108.239.76:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-03,http://171.108.239.76:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-04,http://171.108.239.76:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-05,http://171.108.239.76:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://171.108.239.76:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-06,http://171.108.239.76:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-07,http://171.108.239.76:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-08,http://171.108.239.76:8181/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-09,http://171.108.239.76:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://171.108.239.76:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://171.108.239.76:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://171.108.239.76:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://171.108.239.76:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://171.108.239.76:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://171.108.239.76:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16,http://171.108.239.76:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://171.108.239.76:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 CCTV1,http://cdn.u55u.cn/migu.php?id=cctv1$咪咕代理 接口
 CCTV2,http://cdn.u55u.cn/migu.php?id=cctv2$咪咕代理 接口
 CCTV3,http://cdn.u55u.cn/migu.php?id=cctv3$咪咕代理 接口
