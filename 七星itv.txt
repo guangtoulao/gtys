@@ -1,5 +1,23 @@
 
 七星🌟央卫,#genre#
+CCTV1,http://27.40.16.70:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV2,http://27.40.16.70:8114/GD_CUCC/G_CCTV-2-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV3,http://27.40.16.70:8114/GD_CUCC/G_CCTV-3-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV4,http://27.40.16.70:8114/GD_CUCC/G_CCTV-4-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV5,http://27.40.16.70:8114/GD_CUCC/G_CCTV-5-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV6,http://27.40.16.70:8114/GD_CUCC/G_CCTV-6-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV7,http://27.40.16.70:8114/GD_CUCC/G_CCTV-7-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV8,http://27.40.16.70:8114/GD_CUCC/G_CCTV-8-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV9,http://27.40.16.70:8114/GD_CUCC/G_CCTV-9-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV10,http://27.40.16.70:8114/GD_CUCC/G_CCTV-10-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV11,http://27.40.16.70:8114/GD_CUCC/G_CCTV-11-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV12,http://27.40.16.70:8114/GD_CUCC/G_CCTV-12-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV13,http://27.40.16.70:8114/GD_CUCC/G_CCTV-13-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV14,http://27.40.16.70:8114/GD_CUCC/G_CCTV-14-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV15,http://27.40.16.70:8114/GD_CUCC/G_CCTV-15-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV16,http://27.40.16.70:8114/GD_CUCC/G_CCTV-16-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+CCTV17,http://27.40.16.70:8114/GD_CUCC/G_CCTV-17-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 CCTV1,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=222
 CCTV2,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=270
